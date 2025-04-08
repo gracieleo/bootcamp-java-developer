@@ -1,8 +1,19 @@
-Repositório de exercícios Bootcamp Java Developer DIO
+<h1 align="center">
+ Repositório Bootcamp Java Developer DIO
+</h1>
+
+<p align="center">
+	<img alt="Tamanho do código no GitHub em bytes" src="https://img.shields.io/github/languages/code-size/gracieleo/bootcamp-java-developer?color=6272a4" />
+	<img alt="Linguagem principal" src="https://img.shields.io/github/languages/top/gracieleo/bootcamp-java-developer?color=6272a4"/>
+</p>
+
+## 💡 Sobre os projetos
+- [desafio-conta-banco](https://github.com/gracieleo/bootcamp-java-developer/edit/master/README.md)
+- [desafio-controle-fluxo](https://github.com/gracieleo/bootcamp-java-developer/edit/master/README.md)
+- [desafio-uml-iphone](https://github.com/gracieleo/bootcamp-java-developer/edit/master/README.md) representar os papéis do iPhone: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet
+
+##  🔧 Tecnologias
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-
-<div style="display: inline_block"><br>  
-   <img align="center" alt="Graciele-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Graciele-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-</div>
+<p align="center"> Desenvolvido com 💜 por Graciele de Oliveira </p>
