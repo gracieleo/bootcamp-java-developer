@@ -8,9 +8,9 @@
 </p>
 
 ## 💡 Sobre os projetos
-- [desafio-conta-banco](https://github.com/gracieleo/bootcamp-java-developer/edit/master/README.md)
-- [desafio-controle-fluxo](https://github.com/gracieleo/bootcamp-java-developer/edit/master/README.md)
-- [desafio-uml-iphone](https://github.com/gracieleo/bootcamp-java-developer/edit/master/README.md) representar os papéis do iPhone: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet
+- [desafio-conta-banco](https://github.com/gracieleo/bootcamp-java-developer/tree/master/desafio-conta-banco) simular dados de entrada de um cliente 
+- [desafio-controle-fluxo](https://github.com/gracieleo/bootcamp-java-developer/tree/master/desafio-controle-fluxo) fazer um contador de números
+- [desafio-uml-iphone](https://github.com/gracieleo/bootcamp-java-developer/tree/master/desafio-uml-iphone) representar os papéis do iPhone: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet
 
 ##  🔧 Tecnologias
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
